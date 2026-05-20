@@ -1,0 +1,14 @@
+// Import seluruh Bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+// Custom warna utama
+$primary: #6f42c1;
+
+// Custom style tambahan
+body {
+  background-color: #f8f9fa;
+}
+
+h1 {
+  color: $primary;
+}
